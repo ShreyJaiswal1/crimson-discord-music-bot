@@ -1,0 +1,62 @@
+{
+  "name": "simple-discord-bot",
+  "version": "3.0.0",
+  "description": "Advanced discord music bot made by Shrey",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "array.prototype.move": "0.0.4",
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-static": "^4.2.7",
+    "fs": "0.0.1-security",
+    "lyrics-finder": "^21.4.0",
+    "node-opus": "^0.3.3",
+    "opusscript": "^0.0.7",
+    "pretty-ms": "^7.0.1",
+    "string-progressbar": "^1.0.3",
+    "youtube-sr": "^1.0.4",
+    "yt-search": "^2.2.4",
+    "ytdl-core": "^4.5.0",
+    "ytdl-core-discord": "^1.2.4",
+    "ytpl": "^2.0.0-alpha.3"
+  }
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShreyJaiswal1/crimson-discord-music-bot"
+  },
+  "keywords": [
+    "discord",
+    "discord-js",
+    "discord.js",
+    "discord-api",
+    "discord-music-bot",
+    "discord-bot",
+    "discordbot",
+    "youtube",
+    "music",
+    "music-bot",
+    "nodejs",
+    "npm",
+    "node-js",
+    "multipurpose",
+    "gaming",
+    "utility"
+  ],
+  "author": "SHREY#5420",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ShreyJaiswal1/crimson-discord-music-bot"
+  },
+  "homepage": "https://github.com/ShreyJaiswal1/crimson-discord-music-bot"
+}
+
